@@ -20,6 +20,6 @@ yarn start
 
 ### Tech explored
 
-- **inquirer** - collection of common interactive CLI interfaces
-- **figlet** - ascii text banner generation
-- **chalk** - terminal string styling 
+- **[inquirer](https://github.com/SBoudrias/Inquirer.js)** - collection of common interactive CLI interfaces
+- **[figlet](https://github.com/patorjk/figlet.js)** - ascii text banner generation
+- **[chalk](https://github.com/chalk)** - terminal string styling 
