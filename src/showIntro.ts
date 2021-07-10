@@ -3,7 +3,6 @@ import figlet from "figlet";
 
 export default function showIntro() {
   // Loading message
-  console.log("\n")
   console.log(
     chalk.yellow(
       figlet.textSync('Fibonacci', {
@@ -13,5 +12,4 @@ export default function showIntro() {
       })
     )
   );
-  console.log("\n")
 }
