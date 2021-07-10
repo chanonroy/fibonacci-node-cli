@@ -1,0 +1,22 @@
+{
+  "name": "fibonacci-node-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chanon Roy <chanonroy@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.1.1",
+    "ts-node": "^10.1.0"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.5.4",
+    "@types/inquirer": "^7.3.3",
+    "@types/node": "^16.3.1",
+    "typescript": "^4.3.5"
+  }
+}
